@@ -1,0 +1,1 @@
+//  subarray is contiguous part of array
